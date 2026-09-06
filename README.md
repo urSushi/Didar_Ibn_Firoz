@@ -1,26 +1,74 @@
-# Didar Ibn Firoz — Interactive Portfolio
+Didar Ibn Firoz — Personal Portfolio
+A modern, interactive and responsive personal portfolio website designed to showcase my academic journey, technical skills, projects, experience and professional interests.
 
-A responsive, interactive personal portfolio built with **HTML, CSS and JavaScript**.
+The portfolio is built using pure HTML, CSS and JavaScript with a focus on clean UI, smooth interactions and responsive design.
 
-## Folder structure
-- `index.html` — portfolio content and sections
-- `style.css` — visual design and responsive layout
-- `script.js` — cursor glow, theme switcher, mobile menu and scroll reveal
-- `assets/didar-profile.jpg` — profile photo
+Features
+Modern interactive portfolio design
 
-## Run locally
-1. Keep all files/folders together.
-2. Open `index.html` in a browser, or use VS Code + Live Server.
-3. Replace project GitHub links and add live-demo URLs in `index.html`.
-4. Replace/update your CV information whenever needed.
+Responsive layout for desktop, tablet and mobile
 
-## Easy customization
-Search in `index.html` for:
-- `CrisisAssist`
-- `IIR Butterworth`
-- `CPU Scheduling`
-- `GitHub`
-- `LinkedIn`
-- `didarabid@gmail.com`
+Dark mode and light mode
 
-The current content is based on the supplied CV.
+Pastel green light theme
+
+Luminous green dark theme
+
+Interactive navigation
+
+Smooth scrolling
+
+Scroll reveal animations
+
+Interactive project cards
+
+Personal project showcase
+
+Skills and technology section
+
+Education section
+
+Journey / experience timeline
+
+Contact section
+
+GitHub and LinkedIn integration
+
+Responsive contact form
+
+Custom cursor glow
+
+Subtle background noise effect
+
+Mobile navigation menu
+
+Technologies Used
+HTML5
+
+CSS3
+
+JavaScript
+
+CSS Grid
+
+CSS Flexbox
+
+Responsive Web Design
+
+Git & GitHub
+
+Project Structure
+didar-ibn-firoz-portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── images/
+│   │   └── profile.jpg
+│   │
+│   └── cv/
+│       └── Didar_Ibn_Firoz_CV.pdf
+│
+└── README.md
